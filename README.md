@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <heading>
-        <title>
-
-        </title>
-    </heading>
-    <body>
-        <h1 align="center">Hi 👋, I'm Joschua Ordonio</h1>
+<h1 align="center">Hi 👋, I'm Joschua Ordonio</h1>
 <p align="center">I am a BSIT Network and Web Application sophomore student in Bataan Peninsula State University<br>Aspiring to become Software Engineer.</p>
 
 <p align="center"> 
@@ -38,7 +30,3 @@
 <div align = "center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=http-jokwa&theme=dark&hide=html,Tcl" alt="http-jokwa" />
 </p></div>
-
-
-    </body>
-</html>
