@@ -18,9 +18,10 @@
 - 📫 How to reach me **joschuaordonio29@gmail.com**
 
 <h3>Tools that I use:</h3>
+<p align = "left">
 <img height="30" alt="Eclipse" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg">
 <img height="30" alt = "VSC" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
-<img height="30" alt="Andorid" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png">
+<img height="30" alt="Andorid" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png"></p>
 <hr>
 <h3 align = "center">My Github Highlights 🔥</h3>
 <div align = "center">
