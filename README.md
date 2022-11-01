@@ -12,7 +12,7 @@
 - 💬 Ask me about **Java & Android Studio**
 
 - 📫 How to reach me **joschuaordonio29@gmail.com**
-- 
+<hr>
 <div alignment = "center">
 <p><img align="left" width = 47% background-color = "#123F" src="https://github-readme-stats.vercel.app/api/top-langs?username=http-jokwa&show_icons=true&locale=en&layout=compact" alt="http-jokwa" /></p>
 </div>
