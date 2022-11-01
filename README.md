@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joschua Ordonio</h1>
+<h1 align="center" color = #19f505>Hi 👋, I'm Joschua Ordonio</h1>
 <p align="center">I am a BSIT Network and Web Application sophomore student in Bataan Peninsula State University<br>Aspiring to become Software Engineer.</p>
 
 <p align="center"> 
