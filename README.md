@@ -25,19 +25,20 @@
 - 📫 How to reach me **joschuaordonio29@gmail.com**
 
 <hr>
-<h3>My Github Highlights 🔥</h3>
-
-<div align = "center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=http-jokwa&show_icons=true&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="http-jokwa" /></p>
-</div>
-
-<!--Streak-->
-<div align = "center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=http-jokwa&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="http-jokwa" />
-</p></div>
+<h3 align = "center">My Github Highlights 🔥</h3>
 
 <div align = "center">
     <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=http-jokwa&theme=dark&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="http-jokwa" /></p>
     </div>
+
+<div align = "center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=http-jokwa&show_icons=true&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="http-jokwa" /></p>
+</div>
+<!--Streak-->
+<div align = "center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=http-jokwa&theme=dark&hide=html,Tcl" alt="http-jokwa" />
+</p></div>
+
+
     </body>
 </html>
