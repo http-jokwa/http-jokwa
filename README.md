@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, Everyone!</h1>
-        <p align="center"> I am <b>Joschua Ordonio</b>, sophomore student here in <b>Bataan Peninsula State University</b> and I'm currently taking <b>BSIT major in Network and Web Application</b>.<br>
-            Aspiring to become Software Engineer.</p>
+        <p align="center"> I am <b>Joschua Ordonio</b>, sophomore student here in <b>Bataan Peninsula State University</b> and I'm currently taking <b>BSIT major in Network and Web Application</b>. Aspiring to become Software Engineer.</p>
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -11,7 +10,7 @@
 </p>
 <hr>
 
-- 🌱 I’m currently learning **Java, Android Studio & HTML**
+- 📖 I’m currently learning **Java, Android Studio & HTML**
 
 - 💬 Ask me about **Java & Android Studio**
 
@@ -21,8 +20,10 @@
 <p align = "left">
 <img height="30" alt="Eclipse" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg">
 <img height="30" alt = "VSC" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
-<img height="30" alt="Andorid" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png"></p>
+<img height="30" alt="Andorid" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png">
+</p>
 <hr>
+
 <h3 align = "center">My Github Highlights 🔥</h3>
 <div align = "center">
     <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=http-jokwa&theme=dark&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="http-jokwa" /></p>
