@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Everyone!</h1>
-        <p align="center"> I am <b>Joschua Ordonio</b>, sophomore student here in <b>Bataan Peninsula State University</b> and I'm currently taking <b>BSIT major in Network and Web Application</b>. Aspiring to become Software Engineer.</p>
+        <p align="center"> I am <b>Joschua Ordonio</b>, sophomore student here in <b>Bataan Peninsula State University</b> and I'm currently taking <b>BSIT major in Network and Web Application</b>. Aspiring Software Engineer.</p>
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
