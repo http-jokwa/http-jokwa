@@ -15,6 +15,8 @@
 - 💬 Ask me about **Java & Android Studio**
 
 - 📫 How to reach me **joschuaordonio29@gmail.com**
+
+### How to reach me: 
 <hr>
 <h3>My Github Highlights 🔥</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=http-jokwa&theme=buefy-dark&show_icons=true&locale=en&layout=compact" alt="http-jokwa" /></p>
