@@ -22,6 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=http-jokwa&show_icons=true&locale=en" alt="http-jokwa" /></p>
 
 <!--Streak-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=http-jokwa&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" alt="http-jokwa" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=http-jokwa&theme=#4285f4&date_format=M%20j%5B%2C%20Y%5D" alt="http-jokwa" />
 </p>
 
