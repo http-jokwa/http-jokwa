@@ -16,12 +16,11 @@
 
 - 📫 How to reach me **joschuaordonio29@gmail.com**
 
-### How to reach me: 
 <hr>
 <h3>My Github Highlights 🔥</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=http-jokwa&theme=buefy-dark&show_icons=true&locale=en&layout=compact" alt="http-jokwa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=http-jokwa&show_icons=true&locale=en" alt="http-jokwa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=http-jokwa&show_icons=true&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=true&icon_color=528AAE" alt="http-jokwa" /></p>
 
 <!--Streak-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=http-jokwa&theme=#4285f4&date_format=M%20j%5B%2C%20Y%5D" alt="http-jokwa" />
