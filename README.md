@@ -34,7 +34,7 @@
 </div>
 <!--Streak-->
 <div align = "center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=http-jokwa&theme=dark&hide=html,Tcl" alt="http-jokwa" />
+<p><img align="center" height = "195.8" src="https://github-readme-streak-stats.herokuapp.com/?user=http-jokwa&theme=dark&hide=html,Tcl" alt="http-jokwa" />
 </p> </div>
 <hr>
 <h3 align="center"> 
