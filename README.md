@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Everyone!</h1>
-        <p align="center"> I am <b>Joschua Ordonio</b>, sophomore student here in <b>Bataan Peninsula State University</b> and I'm currently taking <b>BSIT major in Network and Web Application</b>. Aspiring Software Engineer.</p>
+        <p align="center"> I am <b>Joschua Ordonio</b>, sophomore student here in <b>Bataan Peninsula State University</b> and I'm currently taking <b>BSIT major in Network and Web Application</b></p>
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **joschuaordonio29@gmail.com**
 
-<h3>Tools that I currently use:</h3>
+<h3>Tools that I currently use: 🛠️ </h3>
 <p align = "left">
 <img height="40" alt="Eclipse" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg">
 <img height="40" alt = "VSC" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
