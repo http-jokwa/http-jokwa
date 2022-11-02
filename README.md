@@ -36,3 +36,8 @@
 <div align = "center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=http-jokwa&theme=dark&hide=html,Tcl" alt="http-jokwa" />
 </p> </div>
+<hr>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/http-jokwa/count.svg" />
+</p>
