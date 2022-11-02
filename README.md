@@ -26,7 +26,7 @@
 
 <h3 align = "center">My Github Highlights 🔥</h3>
 <div align = "center">
-    <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=http-jokwa&theme=dark&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="http-jokwa" height = "199"/></p>
+    <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=http-jokwa&theme=dark&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="http-jokwa" height = "197.8"/></p>
     </div>
 
 <div align = "center">
