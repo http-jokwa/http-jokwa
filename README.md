@@ -1,3 +1,7 @@
+<div align = "center" >
+<img src="https://thumbs.gfycat.com/AbleLikableHochstettersfrog-size_restricted.gif" height = "200"/>
+</div>
+
 <h1 align="center">Hi 👋, Everyone!</h1>
         <p align="center"> I am <b>Joschua Ordonio</b>, sophomore student here in <b>Bataan Peninsula State University</b> and I'm currently taking <b>BSIT major in Network and Web Application</b></p>
 
