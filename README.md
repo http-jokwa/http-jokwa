@@ -25,7 +25,7 @@
 <img height="40" alt="Eclipse" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg">
 <img height="40" alt = "VSC" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
 <img height="40" alt="Andorid" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png">
-<img height="30" alt="Discord" src = "[https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png](https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png)](https://www.freelogovectors.net/wp-content/uploads/2021/05/discord_logo-freelogovectors.net_.png](https://cdn.freelogovectors.net/wp-content/uploads/2021/05/discord_logo-freelogovectors.net_.png)">
+<img height="30" alt="Discord" src = "[[https://assets-global.website-files.com/6257adef93867e50d84d30e2/625e5fcef7ab80b8c1fe559e_Discord-Logo-Color.png](https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png)](https://www.freelogovectors.net/wp-content/uploads/2021/05/discord_logo-freelogovectors.net_.png](https://cdn.freelogovectors.net/wp-content/uploads/2021/05/discord_logo-freelogovectors.net_.png)](https://logos-world.net/wp-content/uploads/2021/05/Discord-New-Logo.png)"/>
 </p>
 <hr>
 
