@@ -26,8 +26,8 @@
 <img height="40" alt = "VSC" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
 <img height="40" alt="Andorid" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png">
 <img height="40" alt="Discord" src = "https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png">
-
 </p>
+
 <hr>
 
 <h3 align = "center">My Github Highlights 🔥</h3>
@@ -42,7 +42,9 @@
 <div align = "center">
 <p><img align="center" height = "195.8" src="https://github-readme-streak-stats.herokuapp.com/?user=http-jokwa&theme=dark&hide=html,Tcl" alt="http-jokwa" />
 </p> </div>
+
 <hr>
+
 <h3 align="center"> 
     Visitor count<br><br>
     <img src="https://profile-counter.glitch.me/http-jokwa/count.svg" height="66.5"/>
