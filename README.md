@@ -34,12 +34,12 @@
     <p><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=http-jokwa&theme=chartreuse-dark&show_icons=true&locale=en&layout=compact&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="http-jokwa" height = "162.5"/></p></div>
 
 <div align = "center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=http-jokwa&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&text_color=ffffff&hide_border=false&icon_color=528AAE" alt="http-jokwa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=http-jokwa&show_icons=true&locale=en" alt="http-jokwa" /></p>
 </div>
 
 <!--Streak-->
 <div align = "center">
-<p><img align="center" height = "195.8" src="https://github-readme-streak-stats.herokuapp.com/?user=http-jokwa&theme=chartreuse-dark&&text_color=9f9f9f&bg_color=151515&hide=html,Tcl" alt="http-jokwa" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=http-jokwa&" alt="http-jokwa" /></p>
 </p> </div>
 
 
