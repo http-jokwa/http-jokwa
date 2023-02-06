@@ -2,8 +2,6 @@
 <img src="https://thumbs.gfycat.com/AbleLikableHochstettersfrog-size_restricted.gif" height = "200"/>
 </div>
 
-<h1 align="center">Hi 👋, Everyone!</h1>
-
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
